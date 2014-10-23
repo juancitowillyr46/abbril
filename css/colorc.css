@@ -1,0 +1,157 @@
+
+		
+		
+	.menu li a
+		{
+		font-family:Open Sans;
+		}
+		
+	article,footer
+		{
+		font-family:Open Sans;
+		}
+		
+	body,input,textarea
+		{
+		font-family:Open Sans;
+		}
+		
+	section
+		{
+		font-size:14px;
+		line-height:22px;
+		}
+		
+	section .post-title
+		{
+		font-style:italic;
+		}
+		
+	#logo
+		{
+		margin-top:140px !important;
+		margin-bottom:88px;
+		}
+		
+	header
+		{
+		font-family:Open Sans;
+		}
+		
+	h1,h2,h3,h4,h5,h6,.post-date
+		{
+		font-family:Roboto;
+		}
+		
+		
+		nav,section .post-date
+		{
+		background-color:#CF3C1F;
+		}
+		
+	.post-date
+		{
+		border-right:1px solid #CF3C1F;
+		border-top:1px solid #CF3C1F;
+		}
+		
+	.menu li a,.menu li a:hover,.date
+		{
+		color:#FFFFFF !important;
+		}
+		
+	.side_title,.side_title a, .side_title a,nav .widget ul li a,.widget_tag_cloud a
+		{
+		color:#FFFFFF;
+		}
+		
+	nav .widget,nav .widget_rss cite,nav .rssSummary
+		{
+		color:#FFFFFF;
+		}
+		
+	nav .widget a:hover
+		{
+		color:#660404;
+		}
+		
+	::selection
+		{
+		background: #CF3C1F;
+		color:#FFFFFF;
+		}
+		
+	::-moz-selection
+		{
+		background: #CF3C1F;
+		color:#FFFFFF;
+		}
+		
+	.projects-list li:hover > .icon_link
+		{
+		background-color:#ce6854;
+		}
+		
+	.projects-list li:hover .thumbnails
+		{
+		border-bottom:4px solid #ce6854 !important;
+		}
+		
+	.projects-list li:hover
+		{
+		border-bottom:1px solid #ce6854 !important;
+		}
+		
+	.menu li ul
+		{
+		background-color:#DD3F22 !important;
+		}
+		
+	article .post-share .icons a:hover,.mobile-menu:hover,#top_button:hover
+		{
+		background-color:#DF4729 !important;
+		}
+		
+	.resume_category .fa,.controls li.active
+		{
+		color:#CF3C1F !important;
+		}
+		
+	.posts-next:hover a,.posts-prev:hover a
+		{
+		background-color:#CF3C1F !important;
+		}
+		
+	header #contact a,header #contact #my_adress:hover,header  .click .fa,.custom-breadcrumb a,header .custom-breadcrumb .fa-location-arrow,
+	header #contact a:hover,header #contact #my_adress:hover,header  .click .fa:hover,.custom-breadcrumb a:hover,header .custom-breadcrumb .fa-location-arrow:hover,
+	header #contact a:focus,header #contact #my_adress:hover,header  .click .fa:focus,.custom-breadcrumb a:focus,header .custom-breadcrumb .fa-location-arrow:focus
+		{
+		color:#CF7636;
+		}
+		
+	header .author-info,header .author-info a,header .author-info a:hover
+		{
+		color:#CE7636 !important;
+		}
+		
+	blockquote
+		{
+		border-left-color:#CF3C1F;
+		}
+		
+	.projects-list li:hover,.projects-list li:hover .thumbnails
+		{
+		border-bottom-color:#CF3C1F;
+		}
+		
+	.projects-list li:hover > .description a,a
+		{
+		color:#CF3C1F;
+		}
+		
+	a:hover,a:focus
+		{
+		color:#A93119;
+		}
+		
+		.section_portfolio_filters .controls{position:relative;top:3px;}
